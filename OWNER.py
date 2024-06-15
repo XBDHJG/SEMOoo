@@ -1,10 +1,11 @@
-# متطلبات التنصيب #
-OWNER = ["Zo_Mbi_e"]
-OWNER_NAME = "zombie"
-BOT_TOKEN = "6022370529:AAHM5anvuHDDhKN52ypmcoKTLWnWFEPVDDE"
+OWNER = ["XB_DV"]
+OWNER_NAME = "𝐷 𝐸 Ꮙ 𝐼 𝐿ع"
+BOT_TOKEN = "7432583751:AAEhpu_JZRGedR0UzXiNkuAGfJSm06dDm0wع"
 DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority"
-CHANNEL = "https://t.me/zombieyy"
-GROUP = "https://t.me/zombie2"
-VIDEO = "https://telegra.ph/file/770e2d5df0b50264097b2.jpg"
-LOGS = "zombie2"
+CHANNEL = "https://t.me/SOURCE_MARVEN" # قناة السورس
+GROUP = "https://t.me/D3M_MARVEN" # جروب السورس
+VIDEO = "https://telegra.ph/file/d7f84f3abf21196ccd7e5.jpg"
+LOGS = "hvfffgyuuiiijj"
+
+
 
