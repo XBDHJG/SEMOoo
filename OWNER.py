@@ -1,5 +1,5 @@
 OWNER = ["XB_DV"]
-OWNER_NAME = "𝐷 𝐸 Ꮙ 𝐼 𝐿ع"
+OWNER_NAME = "devail"
 BOT_TOKEN = "7432583751:AAEhpu_JZRGedR0UzXiNkuAGfJSm06dDm0wع"
 DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority"
 CHANNEL = "https://t.me/SOURCE_MARVEN" # قناة السورس
